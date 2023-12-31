@@ -10,7 +10,7 @@ As an experienced game developer, I specialize in creating immersive and efficie
      
 
   
-<a href="www.linkedin.com/in/muhammad-asim-017037195">
+<a href="https://www.linkedin.com/in/muhammad-asim-017037195">
          <img alt="followers" title="Follow me on LinkedIn" src="https://custom-icon-badges.demolab.com/github/followers/AhsanAliKhan?color=0A66C2&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow on LinkedIn&logoColor=white"/></a>
          <img alt="followers" title="Contact Me" src="https://custom-icon-badges.demolab.com/badge/ahsanalikhan18@gmail.com?style=for-the-badge&logo=mention&logoColor=white"/></a>
       <a href="https://github.com/AhsanAliKhan?tab=repositories&sort=stargazers">

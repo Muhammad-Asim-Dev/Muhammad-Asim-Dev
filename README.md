@@ -1,16 +1,16 @@
 
 
-<h1 align="center">Hi 👋, I'm Ahsan Ali Khan</h1>
-<h3 align="center">A passionate Full Stack Web Developer</h3>
+<h1 align="center">Hi 👋, I'm Muhammad Asim</h1>
+<h3 align="center">A passionate Senior Developer</h3>
 
-As a seasoned web developer, I excel at crafting dynamic and efficient web solutions. My proficiency in PHP extends to Laravel and CodeIgniter frameworks, allowing me to build robust applications with elegant code structures. My expertise in WordPress enables me to create customizable and user-friendly websites that merge form and function seamlessly. With a keen eye for detail and a passion for staying updated with the latest industry trends, I consistently deliver high-quality, tailor-made web experiences that cater to diverse client needs. life with confidence and expertise.
+As an experienced game developer, I specialize in creating immersive and efficient gaming solutions. My proficiency in C# extends to Unity3D, allowing me to build robust and engaging applications with clean and organized code structures. With a deep understanding of game design principles and mechanics, I bring a unique blend of creativity and technical expertise to my projects. Whether it's crafting interactive environments, implementing complex game mechanics, or optimizing performance, I consistently deliver high-quality, customized gaming experiences that align with the latest industry trends. With a passion for pushing the boundaries of what's possible in the gaming world, I approach each project with confidence and a commitment to delivering exceptional results.
 
 
  <p align="left">
      
 
   
-<a href="https://www.linkedin.com/in/php-wordpress-expert">
+<a href="www.linkedin.com/in/muhammad-asim-017037195">
          <img alt="followers" title="Follow me on LinkedIn" src="https://custom-icon-badges.demolab.com/github/followers/AhsanAliKhan?color=0A66C2&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow on LinkedIn&logoColor=white"/></a>
          <img alt="followers" title="Contact Me" src="https://custom-icon-badges.demolab.com/badge/ahsanalikhan18@gmail.com?style=for-the-badge&logo=mention&logoColor=white"/></a>
       <a href="https://github.com/AhsanAliKhan?tab=repositories&sort=stargazers">
